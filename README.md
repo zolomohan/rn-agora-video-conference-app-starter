@@ -1,3 +1,7 @@
+# React Native Agora Video Conference Application
+
+This is the starter code for the [React Native Video Conference Application using Agora](https://zolomohan.hashnode.dev/react-native-agora-video-conference-app).
+
 To clone this repository, run
 
 ```bash
